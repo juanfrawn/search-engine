@@ -26,7 +26,7 @@ export const Search = () => {
         onClick={() => handleText(text)}
         className='bg-blue-500 flex items-center px-3 rounded-tr-xl rounded-br-xl'
         type='submit'>
-          <img src={search} alt="Search" className='w-6' />
+          <img src={search} alt="Search" className='w-4' />
         </div>
         </form>
       <Links />
